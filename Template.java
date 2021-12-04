@@ -46,7 +46,7 @@ final class Template {
                 // ask the user to input something
                 System.out.print("Enter something: ");
 
-                // Stores float in mass
+                // Stores input as float
                 final float aFloat = userInput.nextFloat();
 
                 // Outputs something
