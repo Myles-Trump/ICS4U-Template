@@ -43,7 +43,7 @@ final class Template {
 
         // Block of code to try
         try {
-                // ask the user to input the mass of their object
+                // ask the user to input something
                 System.out.print("Enter something: ");
 
                 // Stores float in mass
